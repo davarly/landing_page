@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="image/Logo-Pesat (1).png" type="image/x-icon">
     <title>Landing Page</title>
     <link rel="stylesheet" href="bootstrap-5.3.2-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icon@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <style>
         .section1-1 {
             margin-left: 290px;
@@ -126,7 +126,7 @@
 </head>
 </html>
 <header class="container-fluid p-0">
-    <nav class="navbar fixed-top navbar-expand-lg bg-primary" data-bs-theme="dark>
+    <nav class="navbar fixed-top navbar-expand-lg bg-primary" data-bs-theme="dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="https://smapluspgri.sch.id">
                 <img src="image/Logo-Pesat (1).png" alt="Logo Pesat" width="40px" class="d-inline-block align-text-top">
@@ -181,7 +181,7 @@
             </div>
         </div>
     </section>
-    <section class="row-py-5">
+    <section class="row py-5">
         <div class="col text-center">
             <!--lorem2-->
             <strong>Lorem, ipsum</strong>
@@ -192,10 +192,10 @@
             <div class="row justify-content-center">
                 <div class="col-sm-5">
                     <div class="row">
-                        <div class="col-sm-9 mb-3">
+                        <div class="col-sm-8 mb-3">
                             <input type="text" class="form-control" placeholder="Lorem ipsum dolor sit"> 
                         </div>
-                        <div class="col-sm-3 mb-3">
+                        <div class="col-sm-4 mb-3">
                             <button class="btn btn-warning">Button Section</button>
                         </div>
                     </div>
@@ -541,7 +541,7 @@
                         <button class="btn btn-lg btn-warning text-primary">Button Quote</button>
                     </div>
                     <div class="col-sm-4">
-                        <img src="image/ilustration/monitor.svg" alt="" class="img-fluid">
+                        <img src="image/ilustration/ai_ball.svg" alt="" class="img-fluid">
                         <p class="picture-tab-title text-center mt-3 mb-1">Lorem ipsum dolor</p>
                         <p class="picture-tab-desc text-center">Lorem ipsum dolor sit amet</p>
                     </div>
@@ -558,7 +558,7 @@
                         <button class="btn btn-lg btn-warning text-primary">Button Quote</button>
                     </div>
                     <div class="col-sm-4">
-                        <img src="image/ilustration/monitor.svg" alt="" class="img-fluid">
+                        <img src="image/ilustration/ai_ball.svg" alt="" class="img-fluid">
                         <p class="picture-tab-title text-center mt-3 mb-1">Lorem ipsum dolor</p>
                         <p class="picture-tab-desc text-center">Lorem ipsum dolor sit amet</p>
                     </div>
@@ -575,7 +575,7 @@
                         <button class="btn btn-lg btn-warning text-primary">Button Quote</button>
                     </div>
                     <div class="col-sm-4">
-                        <img src="image/ilustration/monitor.svg" alt="" class="img-fluid">
+                        <img src="image/ilustration/ai_ball.svg" alt="" class="img-fluid">
                         <p class="picture-tab-title text-center mt-3 mb-1">Lorem ipsum dolor</p>
                         <p class="picture-tab-desc text-center">Lorem ipsum dolor sit amet</p>
                     </div>
@@ -720,8 +720,8 @@
                     <p class="mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam, natus! Fugiat, voluptate possimus! Aliquid nulla velit id explicabo omnis labore.</p>
                     <p class="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aspernatur incidunt eum molestias quae et?</p>
                     <p class="mb-1">Email: <a href="mailto:davarly@gmail.com">davarly@gmail.com</a></p>
-                    <p class="mb-3">Whatsapp: <a href="https://wa.me/+6281234567" target="_blank">08123456789</a></p>
-                    <div class="d flex flex-row mb-2">
+                    <p class="mb-3">Whatsapp: <a href="https://wa.me/+628123456789" target="_blank">08123456789</a></p>
+                    <div class="d-flex flex-row mb-2">
                         <a href="https://www.facebook.com" class="text-warning social-icon" target="_blank">
                             <i class="bi bi-facebook"></i>
                         </a>
@@ -729,7 +729,7 @@
                             <i class="bi bi-instagram"></i>
                         </a>
                         <a href="https://id.linkedin.com" class="text-warning social-icon" target="_blank">
-                            <i class="bi bi-twitter"></i>
+                            <i class="bi bi-linkedin"></i>
                         </a>
                     </div>
                     <div class="d-flex flex-row">
